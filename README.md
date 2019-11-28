@@ -1,3 +1,6 @@
 ＃django
 运行
-蟒蛇manage.py  runservre
+python manage.py  runservre
+
+
+pip install -r lnk.txt
